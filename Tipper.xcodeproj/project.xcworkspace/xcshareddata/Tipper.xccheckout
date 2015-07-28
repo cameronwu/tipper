@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F9AC3EAF-2512-44E4-9A0C-3597947F5362</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tipper</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D6E5BCC5FB242482DF9CD303DB622F985E1CFEEC</key>
+		<string>https://github.com/cameronwu/tipper.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tipper.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D6E5BCC5FB242482DF9CD303DB622F985E1CFEEC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cameronwu/tipper.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D6E5BCC5FB242482DF9CD303DB622F985E1CFEEC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D6E5BCC5FB242482DF9CD303DB622F985E1CFEEC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tipper</string>
+		</dict>
+	</array>
+</dict>
+</plist>

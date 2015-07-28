@@ -81,8 +81,7 @@
 				7ECF11D91B564295001809E1 /* Images.xcassets */,
 				7ECF11D01B564295001809E1 /* Supporting Files */,
 			);
-			name = tipper;
-			path = tips;
+			path = tipper;
 			sourceTree = "<group>";
 		};
 		7ECF11D01B564295001809E1 /* Supporting Files */ = {
@@ -99,8 +98,7 @@
 				7ECF11E81B564296001809E1 /* tipperTests.swift */,
 				7ECF11E61B564296001809E1 /* Supporting Files */,
 			);
-			name = tipperTests;
-			path = tipsTests;
+			path = tipperTests;
 			sourceTree = "<group>";
 		};
 		7ECF11E61B564296001809E1 /* Supporting Files */ = {
@@ -334,7 +332,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				INFOPLIST_FILE = tips/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/tipper/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = Tipper;
 				PROVISIONING_PROFILE = "";
@@ -348,7 +346,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				INFOPLIST_FILE = tips/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/tipper/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = Tipper;
 				PROVISIONING_PROFILE = "";
